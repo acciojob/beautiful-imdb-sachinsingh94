@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+/* Poster Styling */
+.moviePic {
+  height: 300px;
+  width: 200px;
+  opacity: 0.9;
+  display: block;
+  margin: 20px auto; /* centers the image horizontally */
+}
+
+/* Description Styling */
+.movieDetail {
+  position: relative;
+  top: 20px;
+  width: 60%;
+  margin: 0 auto; /* centers horizontally */
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
